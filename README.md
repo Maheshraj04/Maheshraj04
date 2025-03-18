@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm <a href="https://github.com/Maheshraj04" target="_blank">Mahesh Raj</a>!</h1>
+<h1 align="center">👋 Hello, I'm <a href="https://github.com/Maheshraj04" target="_blank">Mahesh Raj</a>!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="250"/>
 </p>
 
 ---
@@ -23,17 +23,15 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maheshraj04&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshraj04&theme=github-dark-blue&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maheshraj04&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshraj04&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -44,11 +42,14 @@
 
 ---
 
-## 📚 Currently Exploring
-- 🐳 Docker  
-- 🕸️ Django  
-- ⚡ CI/CD Pipelines  
+## 📚 Currently Learning
+- 🕸️ Advanced JavaScript Concepts  
+- 📝 Data Structures & Algorithms  
+- 💡 Web Development Best Practices  
 
 ---
 
-<h3 align="center">✨ "Building Dreams One Line of Code at a Time!" ✨</h3>
+<h3 align="center">✨ "Turning Ideas into Reality with Code!" ✨</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" height="200"/>
+</p>
