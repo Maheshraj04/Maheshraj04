@@ -1,19 +1,24 @@
 <h1 align="center">👋 Hello, I'm <a href="https://github.com/Maheshraj04" target="_blank">Mahesh Raj</a>!</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="250"/>
-</p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/maheshraj04" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Maheshraj04" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/maheshraj04" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Maheshraj04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+---
+
+## 🚀 About Me
+- 🎓 Pursuing B.Tech in Computer Science & Engineering.
+- 💻 Passionate about Web Development, Cybersecurity, and AI.
+- 🔥 Aspiring Full Stack Developer with a focus on building scalable and user-friendly applications.
+- 📚 Continuous learner exploring cutting-edge technologies.
 
 ---
 
@@ -36,9 +41,12 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚦 Featured Projects
 - 🚦 **Smart Traffic Light System**  
+  - Developed an AI-powered traffic management system that dynamically adjusts traffic signals based on real-time pedestrian and vehicle density.
+  
 - 🌐 **Travel Landing Page**  
+  - Designed and deployed a responsive and visually appealing travel-themed landing page using HTML, CSS, and JavaScript.
 
 ---
 
@@ -49,7 +57,27 @@
 
 ---
 
-<h3 align="center">✨ "Turning Ideas into Reality with Code!" ✨</h3>
+## 🏆 Achievements & Certifications
+- 🐧 Certified in **Linux Shell Scripting**  
+- 💻 Certified in **C Programming**  
+- 🎯 Completed MOOCs in **Shell Scripting** and **C Language**  
+
+---
+
+## 🎯 Future Goals
+- 🌐 Master Full Stack Development (MERN/Django)  
+- 📡 Gain expertise in DevOps and Cloud Technologies  
+- 🔐 Deepen knowledge in Cybersecurity and Ethical Hacking  
+
+---
+
+## ⚡ Fun Fact
+💡 “I believe in turning ideas into reality through code and innovation!”  
+
+---
+
+<h3 align="center">✨ "Bringing Imagination to Life with Code!" ✨</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" height="200"/>
 </p>
