@@ -44,9 +44,6 @@
 ## 🚦 Featured Projects
 - 🚦 **Smart Traffic Light System**  
   - Developed an AI-powered traffic management system that dynamically adjusts traffic signals based on real-time pedestrian and vehicle density.
-  
-- 🌐 **Travel Landing Page**  
-  - Designed and deployed a responsive and visually appealing travel-themed landing page using HTML, CSS, and JavaScript.
 
 ---
 
