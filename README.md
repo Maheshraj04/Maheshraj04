@@ -88,8 +88,4 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Maheshraj04/Maheshraj04/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
