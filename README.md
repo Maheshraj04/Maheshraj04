@@ -1,5 +1,9 @@
 <h1 align="center">👋 Hello, I'm <a href="https://github.com/Maheshraj04" target="_blank">Mahesh Raj</a>!</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maheshraj04&label=Profile%20views&color=0e75b6&style=flat" alt="Maheshraj04" />
+</p>
+
 ---
 
 ## 🌐 Connect with Me
@@ -58,6 +62,13 @@
 - 🐧 Certified in **Linux Shell Scripting**  
 - 💻 Certified in **C Programming**  
 - 🎯 Completed MOOCs in **Shell Scripting** and **C Language**  
+
+---
+
+## 🔐 TryHackMe Badge
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/badboy04.png" alt="TryHackMe" />
+</p>
 
 ---
 
