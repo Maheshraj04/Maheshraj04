@@ -52,9 +52,9 @@
 ---
 
 ## 📚 Currently Learning
-- 🕸️ Advanced JavaScript Concepts  
-- 📝 Data Structures & Algorithms  
-- 💡 Web Development Best Practices  
+- 🛡️ Ethical Hacking  
+- 🧠 Data Structures & Algorithms  
+- 🌐 Web Development  
 
 ---
 
@@ -62,13 +62,6 @@
 - 🐧 Certified in **Linux Shell Scripting**  
 - 💻 Certified in **C Programming**  
 - 🎯 Completed MOOCs in **Shell Scripting** and **C Language**  
-
----
-
-## 🔐 TryHackMe Badge
-<p align="left">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/badboy04.png" alt="TryHackMe" />
-</p>
 
 ---
 
