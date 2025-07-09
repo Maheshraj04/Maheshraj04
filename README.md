@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahesh Raj</h1>
-<h3 align="center">A Cybersecurity Learner & Web Developer from India</h3>
 
 <p align="center">
   <img src="https://e476rzxxeua.exactdn.com/wp-content/uploads/2020/01/00086-desk-anim-v0.3.gif?strip=all&lossy=1&sharp=1&ssl=1.gif" alt="Mahesh Animation" width="600"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maheshraj04&label=Profile%20views&color=0e75b6&style=flat" alt="Maheshraj04" />
 </p>
 
