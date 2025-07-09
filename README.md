@@ -1,94 +1,52 @@
-<h1 align="center">👋 Hello, I'm <a href="https://github.com/Maheshraj04" target="_blank">Mahesh Raj</a>!</h1>
+![MasterHead](https://e476rzxxeua.exactdn.com/wp-content/uploads/2020/01/00086-desk-anim-v0.3.gif?strip=all&lossy=1&sharp=1&ssl=1.gif)
+<h1 align="center">Hi 👋, I'm Mahesh Raj</h1>
+<h3 align="center">A Cybersecurity Learner & Web Developer from India</h3>
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTQ5ZDY5ODg1MGVmYThmZGRlYWU3MTZmY2JhZTU4NDIxZTVjZDRiYSZjdD1z/4B1BTOMTi8b3OdPrzy/giphy.gif">
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Maheshraj04&label=Profile%20views&color=0e75b6&style=flat" alt="Maheshraj04" />
 </p>
 
----
+- 🌱 I’m currently learning **Ethical Hacking, Web Development, and Data Structures & Algorithms**
+- 💬 Ask me about **Cybersecurity, Full Stack Development, and Open Source**
+- 📫 Reach me at: **maheshraj6761@gmail.com**
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/maheshraj04" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/maheshraj04" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheshraj04" height="30" width="40" />
   </a>
-  <a href="https://github.com/Maheshraj04" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Maheshraj04" target="blank">
+    <img align="center" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="30" width="90" />
   </a>
 </p>
 
----
-
-## 🚀 About Me
-- 🎓 Pursuing B.Tech in Computer Science & Engineering.
-- 💻 Passionate about Web Development, Cybersecurity, and AI.
-- 🔥 Aspiring Full Stack Developer with a focus on building scalable and user-friendly applications.
-- 📚 Continuous learner exploring cutting-edge technologies.
-
----
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maheshraj04&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshraj04&theme=radical&hide_border=true" />
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maheshraj04&show_icons=true&theme=radical&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maheshraj04&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false" height="180" alt="Top Languages" />
+</div>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maheshraj04&theme=radical&hide_border=false" alt="GitHub Streak" /></p>
 
-## 🚦 Featured Projects
-- 🚦 **Smart Traffic Light System**  
-  - Developed an AI-powered traffic management system that dynamically adjusts traffic signals based on real-time pedestrian and vehicle density.
-
----
-
-## 📚 Currently Learning
-- 🛡️ Ethical Hacking  
-- 🧠 Data Structures & Algorithms  
-- 🌐 Web Development  
-
----
-
-## 🏆 Achievements & Certifications
-- 🐧 Certified in **Linux Shell Scripting**  
-- 💻 Certified in **C Programming**  
-- 🎯 Completed MOOCs in **Shell Scripting** and **C Language**  
-
----
-
-## 🎯 Future Goals
-- 🌐 Master Full Stack Development (MERN/Django)  
-- 📡 Gain expertise in DevOps and Cloud Technologies  
-- 🔐 Deepen knowledge in Cybersecurity and Ethical Hacking  
-
----
-
-## ⚡ Fun Fact
-💡 “I believe in turning ideas into reality through code and innovation!”  
-
----
-
-<h3 align="center">✨ "Bringing Imagination to Life with Code!" ✨</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" height="200"/>
-</p>
-
----
 <h3>Snake_Eating_My_Contribution</h3>
-<div align="left" animations=false&theme=radical&locale=en&hide_border=false">
+<div align="left">
   <hr>
 </div>
 <picture>
@@ -96,6 +54,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Maheshraj04/Maheshraj04/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/Maheshraj04/Maheshraj04/blob/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-
